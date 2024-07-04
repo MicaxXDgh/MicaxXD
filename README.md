@@ -21,7 +21,6 @@
 </div>
 <br clear="both">
 <h2 align="left">Minecraft Development</h2>
-###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
