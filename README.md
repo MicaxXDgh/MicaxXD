@@ -1,4 +1,3 @@
-
 ## Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/ZM5G6mEeV2) 
 
@@ -7,6 +6,3 @@
 ## GitHub Statistics
 ![](https://github-readme-stats.vercel.app/api?username=MicaxXDgh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MicaxXDgh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## Top Contributors
-![](https://github-contributor-stats.vercel.app/api?username=MicaxXDgh&limit=5&theme=dark&combine_all_yearly_contributions=true)
