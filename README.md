@@ -1,12 +1,12 @@
+<h1 align="left">Socials</h1>
+
+###
+
 <div align="left">
   <a href="itsmicaxxd" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="left">Expertise</h1>
 
 ###
 
@@ -62,7 +62,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MicaxXDgh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -72,7 +72,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=MicaxXDgh&theme=dark" alt="Layout with last medium posts"  />
 </div>
 
