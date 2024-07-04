@@ -83,11 +83,3 @@
 ###
 
 <h1 align="left">The End</h1>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MicaxXDgh/MicaxXDgh/output/snake.svg" alt="Snake animation" />
-
-###
