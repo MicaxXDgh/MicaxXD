@@ -60,10 +60,14 @@
 
 ###
 
+<h1 align="left">Most Used Languages</h1>
+
+###
+
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MicaxXDgh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MicaxXDgh&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&custom_title=Most%20Used" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -75,6 +79,10 @@
 <div align="left">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=MicaxXDgh&theme=dark" alt="Layout with last medium posts"  />
 </div>
+
+###
+
+<h1 align="left">The End</h1>
 
 ###
 
