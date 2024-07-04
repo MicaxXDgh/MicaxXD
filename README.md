@@ -40,6 +40,6 @@
 </div>
 <h1 align="left">Portfolio</h1>
 <div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=MicaxXDgh&theme=dark" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=MicaxXDgh&theme=dark" alt="No Projects Uploaded"  />
 </div>
 <h1 align="left">The End</h1>
